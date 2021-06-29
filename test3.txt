@@ -1,0 +1,13 @@
+ Volume in drive R is New Volume
+ Volume Serial Number is 9AF8-02FE
+
+ Directory of R:\Tools\Java_Program
+
+29-06-2021  10:05    <DIR>          .
+29-06-2021  10:05    <DIR>          ..
+15-06-2021  09:51               425 HelloWorld.class
+09-06-2021  12:12               101 HelloWorld.java
+24-06-2021  19:42                 0 index.html
+29-06-2021  10:05                 0 test3.txt
+               4 File(s)            526 bytes
+               2 Dir(s)  63,180,394,496 bytes free
